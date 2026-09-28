@@ -273,3 +273,14 @@ The Python workflow is stored in `A_B_Testing_P1.py` and performs
 validation, cleaning, timestamp separation, geographic merge,
 conversion/revenue calculations, significance testing, time analysis,
 and segmentation.
+
+## Power BI Deliverables
+
+The final analytical dataset was used to develop the project's Power BI dashboard.
+
+Project deliverables include:
+
+- `Pricing_AB_Test_Dashboard.pbix` — original Power BI project file
+- `Docs/Pricing_AB_Test_Dashboard.pdf` — exported dashboard presentation
+
+➡️ **[View the Power BI Dashboard Presentation (PDF)](Docs/Pricing_AB_Test_Dashboard.pdf)**

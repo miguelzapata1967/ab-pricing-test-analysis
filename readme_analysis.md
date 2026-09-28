@@ -389,3 +389,11 @@ If the business intends to pursue the **$59 price point**, the next phase should
 9\. The dataset measures ****revenue, not net profit****.
 
 10\. The central observed tradeoff is ****higher conversion at $39 versus higher RPU at $59****.
+
+## 📊 Power BI Analysis Presentation
+
+The findings documented in this analysis are also presented visually in the Power BI dashboard. The presentation summarizes the pricing experiment results and provides additional views of conversion performance, revenue per user, trends, and customer segments.
+
+➡️ **[View the Power BI Dashboard Presentation (PDF)](Docs/Pricing_AB_Test_Dashboard.pdf)**
+
+The dashboard should be interpreted together with this analytical report, which provides the supporting investigation, data-quality findings, statistical interpretation, limitations, and business conclusions.

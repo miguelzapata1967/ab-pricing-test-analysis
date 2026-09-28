@@ -45,3 +45,13 @@ The project follows a simple principle:
 **Detected → examined → resolved when evidence permits → explicitly documented as unresolved when available evidence cannot support a defensible resolution.**
 
 The goal is not to force every observation into a conclusion. It is to distinguish what the experiment demonstrates, what it suggests, and what requires additional evidence.
+
+## 📊 Power BI Dashboard & Presentation
+
+The Power BI dashboard provides a visual presentation of the A/B pricing experiment, including conversion performance, revenue per user, trends, segmentation, and key business findings.
+
+➡️ **[View the Power BI Dashboard Presentation (PDF)](Docs/Pricing_AB_Test_Dashboard.pdf)**
+
+The original Power BI file is also included in this repository:
+
+`Pricing_AB_Test_Dashboard.pbix`
