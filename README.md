@@ -1,3 +1,13 @@
+# Project Context & AI Assistance
+This project was completed as part of my Data Engineering Academy studies and used as a learning exercise in operational analytics, demand forecasting, and inventory planning.
+
+I used AI tools, including Claude, to help work through the project and understand the analytical methods. Claude performed the analysis, including the advanced forecasting, calculations, and generation of recommendations. These outputs are shared as AI-assisted educational work; I do not claim to have independently built or validated all of the models.
+
+My participation involved working with Python with AI assistance, asking questions, studying the outputs, and learning how analytical results relate to operational decisions. Including this project in my portfolio documents that learning process and my developing ability to question assumptions, interpret results, and explain business implications.
+
+ChatGPT/Codex assisted with organizing and writing the project documentation. The reported results remain subject to the limitations and validation needs described in the analysis and technical documents.
+
+
 # Company XYZ Pricing A/B Test
 
 A portfolio analysis of a pricing experiment comparing **$39** and **$59**, with emphasis on business impact, statistical evidence, data quality, and unresolved analytical questions.
